@@ -1,0 +1,4 @@
+@charset "utf-8";
+body { margin: 0px; padding: 0px; }
+.td { border: 1px dashed #999999; }
+.center { margin-top:20px; margin-left:10px;}
